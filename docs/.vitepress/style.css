@@ -1,0 +1,6 @@
+
+:root { --vp-c-brand-1: #2563eb; --vp-c-brand-2: #3b82f6; --vp-c-brand-3: #60a5fa; }
+.VPDoc img { border-radius: 10px; box-shadow: 0 3px 18px rgba(0,0,0,.08); margin: 10px 0 18px; }
+.download-btn { display:inline-block; padding:12px 18px; border-radius:10px; background:#2563eb; color:white !important; font-weight:700; text-decoration:none; margin:10px 0 18px; }
+.download-btn:hover { background:#1d4ed8; }
+video { background:#000; }
