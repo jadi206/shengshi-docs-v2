@@ -28,7 +28,7 @@ features:
 
 
 
-<a class="download-btn" href="/assets/TokenPocket-pro.apk" download>下载 TokenPocket 安卓安装包</a>
+> TokenPocket 安卓安装包请联系客服获取。
 
 【TP钱包安卓手机安装包】（苹果手机无法下载）
 
